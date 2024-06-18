@@ -1,0 +1,23 @@
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\bin\Debug\Taxes program.exe.config
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\bin\Debug\Taxes program.exe
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\bin\Debug\Taxes program.pdb
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\bin\Debug\Taxes program.xml
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes program.vbproj.AssemblyReference.cache
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes program.vbproj.ResolveComReference.cache
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.Breview_Comers.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.Buy_Form.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.Error_Form.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.Fr_CN_Comers.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.Fr_Comers.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.Home_Form.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.Resources.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.RB_Form.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.RS_Form.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.RT_Form.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes_program.Sale_Form.resources
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes program.vbproj.GenerateResource.cache
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes program.vbproj.CoreCompileInputs.cache
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes pr.71E2F7D5.Up2Date
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes program.exe
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes program.xml
+C:\Users\Jameel\Documents\MEGA\programs by visual sutdio\Taxes program\Taxes program\obj\Debug\Taxes program.pdb
